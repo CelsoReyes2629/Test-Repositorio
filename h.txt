@@ -1,0 +1,3 @@
+git config --global user.email "celso.reyesu@uttn.mx"
+git config --global user.name "CelsoReyes2629"
+git remote add origin https://github.com/TI-UTTN/DWI.git
